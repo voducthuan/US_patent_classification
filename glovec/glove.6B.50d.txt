@@ -1,0 +1,1 @@
+Note: For GloVec, “glove.6B.50d.txt” is downloaded from https://nlp.stanford.edu/projects/glove/
